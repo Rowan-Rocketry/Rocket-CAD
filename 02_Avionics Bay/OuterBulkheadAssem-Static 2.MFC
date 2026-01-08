@@ -1,0 +1,16 @@
+[StartTime]
+OuterBulkheadAssem-Static 2.MFC=5s
+[SolverState]
+OuterBulkheadAssem-Static 2.MFC=2
+[MainFrame]
+OuterBulkheadAssem-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAAPOBAAAAAEHEAAAAACMCAAAAA
+[ShowMin]
+OuterBulkheadAssem-Static 2.MFC=No
+[SolverType]
+OuterBulkheadAssem-Static 2.MFC=Linear Analysis
+[StudyType]
+OuterBulkheadAssem-Static 2.MFC=0
+[StudyName]
+OuterBulkheadAssem-Static 2.MFC=Static 2
+[Solver]
+OuterBulkheadAssem-Static 2.MFC=Sparse

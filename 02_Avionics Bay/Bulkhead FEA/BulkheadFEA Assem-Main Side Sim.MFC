@@ -1,0 +1,16 @@
+[StartTime]
+BulkheadFEA Assem-Main Side Sim.MFC=9s
+[SolverState]
+BulkheadFEA Assem-Main Side Sim.MFC=2
+[MainFrame]
+BulkheadFEA Assem-Main Side Sim.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAAPOBAAAAAEHEAAAAACMCAAAAA
+[ShowMin]
+BulkheadFEA Assem-Main Side Sim.MFC=No
+[SolverType]
+BulkheadFEA Assem-Main Side Sim.MFC=Linear Analysis
+[StudyType]
+BulkheadFEA Assem-Main Side Sim.MFC=0
+[StudyName]
+BulkheadFEA Assem-Main Side Sim.MFC=Main Side Sim
+[Solver]
+BulkheadFEA Assem-Main Side Sim.MFC=Sparse

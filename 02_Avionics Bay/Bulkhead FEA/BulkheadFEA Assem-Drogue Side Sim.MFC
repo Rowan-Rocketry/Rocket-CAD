@@ -1,0 +1,16 @@
+[StartTime]
+BulkheadFEA Assem-Drogue Side Sim.MFC=4s
+[SolverState]
+BulkheadFEA Assem-Drogue Side Sim.MFC=2
+[MainFrame]
+BulkheadFEA Assem-Drogue Side Sim.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAAPOBAAAAAEHEAAAAACMCAAAAA
+[ShowMin]
+BulkheadFEA Assem-Drogue Side Sim.MFC=No
+[SolverType]
+BulkheadFEA Assem-Drogue Side Sim.MFC=Linear Analysis
+[StudyType]
+BulkheadFEA Assem-Drogue Side Sim.MFC=0
+[StudyName]
+BulkheadFEA Assem-Drogue Side Sim.MFC=Drogue Side Sim
+[Solver]
+BulkheadFEA Assem-Drogue Side Sim.MFC=Sparse
