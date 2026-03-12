@@ -1,0 +1,16 @@
+[StartTime]
+Chargewell-New-ChargeWell_Static_1000psi.MFC=6s
+[SolverState]
+Chargewell-New-ChargeWell_Static_1000psi.MFC=2
+[MainFrame]
+Chargewell-New-ChargeWell_Static_1000psi.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPBKCAAAAAMKBAAAAAJAEAAAAAPHCAAAAA
+[ShowMin]
+Chargewell-New-ChargeWell_Static_1000psi.MFC=No
+[SolverType]
+Chargewell-New-ChargeWell_Static_1000psi.MFC=Linear Analysis
+[StudyType]
+Chargewell-New-ChargeWell_Static_1000psi.MFC=0
+[StudyName]
+Chargewell-New-ChargeWell_Static_1000psi.MFC=ChargeWell_Static_1000psi
+[Solver]
+Chargewell-New-ChargeWell_Static_1000psi.MFC=Iterative
